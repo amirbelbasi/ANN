@@ -1,6 +1,7 @@
 # neural-network-project
 
 * Neural Network for Classification | Principles of Computational Intelligence
-  * Developed Fully-Connected MLP Neural Network for Image classification of Digits
-  * Utilized Jupyter NoteBook, MNIST Data Set for Training & Evaluation, Numpy
-  * Built Model...
+  * Trained fully-connected MLP NN with stochastic gradient descent algorithm for image classification of decimal digits
+  * Utilized Python, Jupyter notebook for plotting, NumPy for feed forward & backward calculations, and MNIST dataset for training & evaluation
+
+![image](https://github.com/amirbelbasi/neural-network-project/assets/58425120/6b0e1feb-098d-426d-9ae5-f6f370396180)

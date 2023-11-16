@@ -1,7 +1,7 @@
 # neural-network-project
 
 * Neural Network for Classification | Principles of Computational Intelligence
-  * Trained fully-connected MLP NN with stochastic gradient descent algorithm for image classification of decimal digits with 90.7% accuracy
+  * Trained fully-connected MLP NN with stochastic gradient descent algorithm for image classification of decimal digits with 90.7% precision
   * Utilized Python, Jupyter notebook and Matplotlib for plotting, NumPy for feed forward & backward calculations, and MNIST dataset for training & evaluation
 
 ![image](https://github.com/amirbelbasi/neural-network/assets/58425120/26ae823b-dc9e-4983-a5a8-d2ba221aa828)

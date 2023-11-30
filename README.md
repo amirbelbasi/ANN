@@ -1,4 +1,4 @@
-# neural-network-project
+# ANN
 
 * Neural Network for Classification | Principles of Computational Intelligence
   * Trained fully-connected MLP NN with stochastic gradient descent (SGD) optimizer algorithm for image classification of decimal digits with 90.7% accuracy

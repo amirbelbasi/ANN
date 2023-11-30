@@ -16,6 +16,6 @@ MY Neural Network's Structure & Layers:
 
 ![image](https://github.com/amirbelbasi/neural-network/assets/58425120/8d14915f-f2d3-48f7-86e3-d21076bae7d4)
 
-Accuracy Results:
+Results Through 200 Epochs:
 
 ![image](https://github.com/amirbelbasi/neural-network-project/assets/58425120/6b0e1feb-098d-426d-9ae5-f6f370396180)

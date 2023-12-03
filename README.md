@@ -1,7 +1,7 @@
 # ANN
 
 * ANN for Digit Classification | Principles of Computational Intelligence
-  * Trained fully-connected MLP NN with stochastic gradient descent (SGD) optimizer algorithm for image classification of decimal digits with 90.7% accuracy
+  * Trained fully-connected MLP NN with stochastic gradient descent (SGD) optimizer algorithm for image classification of decimal digits with 90.7% accuracy 
   * Utilized Python, Jupyter notebook and Matplotlib for plotting, SGD for optimization, mini-batch, sigmoid as activation function, SSE for cost function, vectorization to enhance performance, NumPy for feed forward & backward calculations, and [MNIST](http://yann.lecun.com/exdb/mnist/) dataset for training & evaluation  
 
 Sample Digits:
